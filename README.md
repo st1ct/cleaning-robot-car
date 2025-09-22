@@ -10,9 +10,9 @@
 - 资深机械设计导师，熟悉各种机械结构
 
 ## 项目分工
-•	[Member 1]: Experience in mechanical design and FEA from academic projects; 
-•	[Member 2]: Background in robotics and control systems; 
-•	[Member 3]: Strong project management and technical communication skills; experience in product design and validation testing
+- [Member 1]: Experience in mechanical design and FEA from academic projects; 
+- [Member 2]: Background in robotics and control systems; 
+- [Member 3]: Strong project management and technical communication skills; experience in product design and validation testing
 
 ## 项目简介
 Urban public spaces such as streets, parks, and campuses face persistent challenges in maintaining cleanliness due to scattered waste including plastic bottles, cigarette butts, leaves, broken glass, and snack debris. Manual cleaning is inefficient, poses safety risks, and cannot keep up with high-frequency waste accumulation. Existing mechanical sweepers often fail to collect diverse waste types or operate effectively in crowded or narrow spaces. This proposal outlines the development of an autonomous, multi-function waste collection robot capable of simultaneously picking up discrete items (e.g., bottles and butts) and sweeping residual debris. Key features include a dual-mode actuation system, onboard compression to increase storage capacity, and autonomous navigation in pedestrian-dense environments. The robot aims to achieve a collection rate of ≥150 items/hour, ≥90% sweeping coverage, and ≥6 hours of continuous operation per charge, all within a compact form factor (height ≤80 cm) suitable for public spaces.
